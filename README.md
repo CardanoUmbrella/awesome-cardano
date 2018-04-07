@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./awesome-cardano-logo.svg" alt="logo of awesome-cardano repository">
+  <img width="400" src="./awesome-cardano-logo-with-umbrella.svg" alt="logo of awesome-cardano repository">
   <br>
   <br>
 </p>
