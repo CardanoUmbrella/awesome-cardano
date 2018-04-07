@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./awesome-cardano-logo-with-umbrella.svg" alt="logo of awesome-cardano repository">
+  <img width="400" src="./awesome-cardano-logo-no-umbrella.svg" alt="logo of awesome-cardano repository">
   <br>
   <br>
 </p>
@@ -13,6 +13,7 @@
     - [Official Resources](#official-resources)
     - [External Resources](#external-resources)
     - [Community](#community)
+        - [Community Github Projects](#community-github-projects)
 - [ADA Exchanges](#exchanges)
 
 # Resources
@@ -56,19 +57,19 @@
 - [Cardano Wiki](https://cardanowiki.info)
 
 ### Community Social
-https://www.reddit.com/r/ADApool/
-https://www.reddit.com/r/CardanoCoin/
+- [](https://www.reddit.com/r/ADApool/)
+- [](https://www.reddit.com/r/CardanoCoin/)
 
 ### Community Github Projects
-https://github.com/Quantumplation/cardano-monitor
-https://github.com/sharkspeed/cardano-sl-alpine
-https://github.com/hcvst/cardano-daedalus-docker
+- [Cardano Monitor](https://github.com/Quantumplation/cardano-monitor)
+- [Cardano SL Alpine](https://github.com/sharkspeed/cardano-sl-alpine)
+- [Cardano Daedalus Docker](https://github.com/hcvst/cardano-daedalus-docker)
 
 ### (Community Built Resources)
-https://adatracker.com/
-https://adacheck.io/
-https://adausd.bid/
-https://howmuchismyadaworth.com/
+- [ADA Tracker](https://adatracker.com/)
+- [ADA Check](https://adacheck.io/)
+- [ADA USD](https://adausd.bid/)
+- [How Much Is My ADA Worth](https://howmuchismyadaworth.com/)
 
 ### (Community News & Commentary)
 https://itunes.apple.com/us/podcast/lets-talk-cardano/id1329422620?mt=2
@@ -85,7 +86,8 @@ https://m.ada.st/about
 - [UPBit](https://upbit.com/)
 
 ### List of Staking Pools
-https://forum.cardano.org/t/list-of-cardano-ada-staking-pools/7595
+- [Cardano Wiki's List](https://cardanowiki.info/wiki/List_of_staking_pools)
+- [Cardano Forum's List](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools/7595)
 
 ### Needs Sorting:
 https://sites.google.com/view/ada-in-th/home
