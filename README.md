@@ -68,13 +68,14 @@
 ### (Community Built Resources)
 - [ADA Tracker](https://adatracker.com/)
 - [ADA Check](https://adacheck.io/)
+- [Cardano Updates](https://cardanoupdates.com/) - Displays github commits
 - [ADA USD](https://adausd.bid/)
 - [How Much Is My ADA Worth](https://howmuchismyadaworth.com/)
 
 ### (Community News & Commentary)
-https://itunes.apple.com/us/podcast/lets-talk-cardano/id1329422620?mt=2
-https://www.youtube.com/channel/UCdMyiIdAqr6lVX7tTCfhHFA
-https://m.ada.st/about
+- [Let's Talk Cardano - Podcast](https://itunes.apple.com/us/podcast/lets-talk-cardano/id1329422620?mt=2)
+- [Sebastien Guillemot Youtube Channel](https://www.youtube.com/channel/UCdMyiIdAqr6lVX7tTCfhHFA) - Making the complex accessible in an insightful way.
+- [](https://m.ada.st/about)
 
 ### Exchanges
 - [Official Buy & Sell ADA](https://www.cardano.org/en/buy-sell-ada/)
@@ -88,7 +89,8 @@ https://m.ada.st/about
 ### List of Staking Pools
 - [Cardano Wiki's List](https://cardanowiki.info/wiki/List_of_staking_pools)
 - [Cardano Forum's List](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools/7595)
+- [AdaStaking.com Pool](https://adastaking.com/)
 
 ### Needs Sorting:
 https://sites.google.com/view/ada-in-th/home
-https://www.ada.st/
+- [Ada.st](https://www.ada.st/)
