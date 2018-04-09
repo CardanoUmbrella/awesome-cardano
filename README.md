@@ -69,8 +69,10 @@
 - [ADA Tracker](https://adatracker.com/)
 - [ADA Check](https://adacheck.io/)
 - [Cardano Updates](https://cardanoupdates.com/) - Displays github commits
-- [ADA USD](https://adausd.bid/)
+- [ADA Staking Calculator](http://ada-calc.herokuapp.com) - The reward figures used are pure speculation at this point.
 - [How Much Is My ADA Worth](https://howmuchismyadaworth.com/)
+
+[comment]: # [ADA USD](https://adausd.bid/)
 
 ### (Community News & Commentary)
 - [Let's Talk Cardano - Podcast](https://itunes.apple.com/us/podcast/lets-talk-cardano/id1329422620?mt=2)
