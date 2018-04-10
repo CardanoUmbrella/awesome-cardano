@@ -57,8 +57,8 @@
 - [Cardano Wiki](https://cardanowiki.info)
 
 ### Community Social
-- [](https://www.reddit.com/r/ADApool/)
-- [](https://www.reddit.com/r/CardanoCoin/)
+- [SubReddit: ADApool](https://www.reddit.com/r/ADApool/)
+- [SubReddit: CardanoCoin](https://www.reddit.com/r/CardanoCoin/)
 
 ### Community Github Projects
 - [Cardano Monitor](https://github.com/Quantumplation/cardano-monitor)
@@ -73,11 +73,9 @@
 - [How Much Is My ADA Worth](https://howmuchismyadaworth.com/)
 - [Cardano Projects](https://cardanoprojects.com)
 
-[comment]: # [ADA USD](https://adausd.bid/)
-
 ### (Community News & Commentary)
 - [Let's Talk Cardano - Podcast](https://itunes.apple.com/us/podcast/lets-talk-cardano/id1329422620?mt=2)
-- [Sebastien Guillemot Youtube Channel](https://www.youtube.com/channel/UCdMyiIdAqr6lVX7tTCfhHFA) - Making the complex accessible in an insightful way.
+- [Sebastien Guillemot Youtube Channel](https://www.youtube.com/channel/UCdMyiIdAqr6lVX7tTCfhHFA) - Making the complex, accessible in an insightful way.
 - [](https://m.ada.st/about)
 
 ### Exchanges
@@ -86,6 +84,7 @@
 - [Binance](https://www.binance.com/)
 - [BitMEX](https://www.bitmex.com/) - Futures market of BTC/ADA
 - [Cryptopia](https://www.cryptopia.co.nz/) - Coming soon
+- [Gate.io](https://gate.io)
 - [HitBTC](https://hitbtc.com/)
 - [UPBit](https://upbit.com/)
 
@@ -95,5 +94,5 @@
 - [AdaStaking.com Pool](https://adastaking.com/)
 
 ### Needs Sorting:
-https://sites.google.com/view/ada-in-th/home
+- [ADA.in.th](https://sites.google.com/view/ada-in-th/home)
 - [Ada.st](https://www.ada.st/)
