@@ -5,16 +5,22 @@
   <br>
 </p>
 
-## Awesome Cardano [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Cardano [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome things related to the Cardano project
+
+## Contents
 
 - [Resources](#resources)
     - [Official Resources](#official-resources)
     - [External Resources](#external-resources)
     - [Community](#community)
         - [Community Github Projects](#community-github-projects)
+        - [Community Built Resources](#community-built-resources)
+        - [Community Social](#community-social)
+        - [Community News & Commentary](#community-news-&-commentary)
 - [ADA Exchanges](#exchanges)
+- [Staking Pools](#list-of-staking-pools)
 
 # Resources
 
@@ -93,6 +99,6 @@
 - [Cardano Forum's List](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools/7595)
 - [AdaStaking.com Pool](https://adastaking.com/)
 
-### Needs Sorting:
+### TODO: Needs Sorting:
 - [ADA.in.th](https://sites.google.com/view/ada-in-th/home)
 - [Ada.st](https://www.ada.st/)
