@@ -71,7 +71,7 @@
 - [Cardano SL Alpine](https://github.com/sharkspeed/cardano-sl-alpine)
 - [Cardano Daedalus Docker](https://github.com/hcvst/cardano-daedalus-docker)
 
-### (Community Built Resources)
+### Community Built Resources
 - [ADA Tracker](https://adatracker.com/)
 - [ADA Check](https://adacheck.io/)
 - [Cardano Updates](https://cardanoupdates.com/) - Displays github commits
@@ -79,7 +79,7 @@
 - [How Much Is My ADA Worth](https://howmuchismyadaworth.com/)
 - [Cardano Projects](https://cardanoprojects.com)
 
-### (Community News & Commentary)
+### Community News & Commentary
 - [Let's Talk Cardano - Podcast](https://itunes.apple.com/us/podcast/lets-talk-cardano/id1329422620?mt=2)
 - [Sebastien Guillemot Youtube Channel](https://www.youtube.com/channel/UCdMyiIdAqr6lVX7tTCfhHFA) - Making the complex, accessible in an insightful way.
 - [](https://m.ada.st/about)
@@ -99,6 +99,6 @@
 - [Cardano Forum's List](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools/7595)
 - [AdaStaking.com Pool](https://adastaking.com/)
 
-### TODO: Needs Sorting:
+### TODO: Needs Organising:
 - [ADA.in.th](https://sites.google.com/view/ada-in-th/home)
 - [Ada.st](https://www.ada.st/)
