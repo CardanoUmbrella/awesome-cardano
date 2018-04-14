@@ -36,12 +36,14 @@
 - [Official Documentation](https://cardanodocs.com/)
 - [Official GitHub Repo](https://github.com/input-output-hk/cardano-sl)
 - [Official Help Center](https://help.cardano.org/)
+- [Official Charles Hoskinson Blog](https://hoskinsoncharles.blogspot.com)
 - [Official Forum](https://forum.cardano.org/)
 - [Official Twitter](https://twitter.com/cardanocom/)
 - [Official SubReddit](https://www.reddit.com/r/cardano/)
 - [Official Chat](https://chat.cardano.org/)
 
 #### Cardano Foundation
+Core Mission: "standardise, protect and promote" the Cardano Protocol.
 - [Official Website](https://cardanofoundation.org/)
 - [Official Youtube Channel](https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg)
 - [Official Twitter](https://twitter.com/CardanoStiftung)
