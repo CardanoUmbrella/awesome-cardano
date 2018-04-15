@@ -53,7 +53,7 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 - [Official Team](https://iohk.io/team/)
 - [Official Academic Papers](https://iohk.io/research/papers/)
 - [Official Blog](https://iohk.io/blog/)
-- [Official GitHub Repo](https://github.com/input-output-hk/)
+- [Official GitHub](https://github.com/input-output-hk/)
 - [Official Youtube Channel](https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w)
 
 #### Emurgo
