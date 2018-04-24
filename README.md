@@ -91,6 +91,7 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 - [Bittrex](https://bittrex.com/)
 - [Binance](https://www.binance.com/)
 - [BitMEX](https://www.bitmex.com/) - Futures market of BTC/ADA
+- [Coinmama](https://www.coinmama.com)
 - [Cryptopia](https://www.cryptopia.co.nz/) - Coming soon
 - [Gate.io](https://gate.io)
 - [HitBTC](https://hitbtc.com/)
