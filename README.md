@@ -65,6 +65,7 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 - [Cardano Wiki](https://cardanowiki.info)
 
 ### Community Social
+- [Discord: Cardano Community](https://discordapp.com/channels/386191477333557248/386223132496887808)
 - [SubReddit: ADApool](https://www.reddit.com/r/ADApool/)
 - [SubReddit: CardanoCoin](https://www.reddit.com/r/CardanoCoin/)
 
@@ -74,6 +75,7 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 - [Cardano Daedalus Docker](https://github.com/hcvst/cardano-daedalus-docker)
 
 ### Community Built Resources
+- [How To Buy ADA](https://buyada.com/) - In depth guide to buying Cardano's ADA.
 - [ADA Tracker](https://adatracker.com/)
 - [ADA Check](https://adacheck.io/)
 - [Cardano Updates](https://cardanoupdates.com/) - Displays github commits
