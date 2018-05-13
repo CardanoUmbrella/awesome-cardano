@@ -104,6 +104,7 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 - [Cardano Wiki's List](https://cardanowiki.info/wiki/List_of_staking_pools)
 - [Cardano Forum's List](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools/7595)
 - [AdaStaking.com Pool](https://adastaking.com/)
+- [StakeMyADA.com Pool](https://stakemyada.com)
 
 ### TODO: Needs Organising:
 - [ADA.in.th](https://sites.google.com/view/ada-in-th/home)
