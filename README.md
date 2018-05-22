@@ -47,6 +47,7 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 - [Official Website](https://cardanofoundation.org/)
 - [Official Youtube Channel](https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg)
 - [Official Twitter](https://twitter.com/CardanoStiftung)
+- [Official Telegram](https://t.me/CardanoAnnouncements)
 
 #### IOHK
 - [Official Website](https://iohk.io/)
@@ -66,6 +67,7 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 
 ### Community Social
 - [Discord: Cardano Community](https://discordapp.com/channels/386191477333557248/386223132496887808)
+- [Telegram: Cardano Community](https://t.me/cardano)
 - [SubReddit: ADApool](https://www.reddit.com/r/ADApool/)
 - [SubReddit: CardanoCoin](https://www.reddit.com/r/CardanoCoin/)
 
