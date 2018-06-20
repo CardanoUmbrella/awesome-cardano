@@ -63,6 +63,7 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 - [Official Facebook](https://www.facebook.com/emurgo.io/)
 
 ### External Resources
+- [Stack Exchange](https://area51.stackexchange.com/proposals/118211/cardano)
 - [Cardano Wiki](https://cardanowiki.info)
 
 ### Community Social
