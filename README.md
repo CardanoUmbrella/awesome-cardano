@@ -93,11 +93,12 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 
 ### Exchanges
 - [Official Buy & Sell ADA](https://www.cardano.org/en/buy-sell-ada/)
+- [Binance](https://www.binance.com/?ref=12808937)
+- [Bithumb](https://www.bithumb.com/)
 - [Bittrex](https://bittrex.com/)
-- [Binance](https://www.binance.com/)
 - [BitMEX](https://www.bitmex.com/) - Futures market of BTC/ADA
 - [Coinmama](https://www.coinmama.com)
-- [Cryptopia](https://www.cryptopia.co.nz/) - Coming soon
+- [Cryptopia](https://www.cryptopia.co.nz/)
 - [Gate.io](https://gate.io)
 - [HitBTC](https://hitbtc.com/)
 - [Huobi](https://www.huobi.pro/)
