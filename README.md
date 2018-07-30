@@ -52,6 +52,7 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 #### IOHK
 - [Official Website](https://iohk.io/)
 - [Official Team](https://iohk.io/team/)
+- [Official Testnet Website (KEVM & IELE)](https://testnet.iohkdev.io/goguen/)
 - [Official Academic Papers](https://iohk.io/research/papers/)
 - [Official Blog](https://iohk.io/blog/)
 - [Official GitHub](https://github.com/input-output-hk/)
