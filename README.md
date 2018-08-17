@@ -60,6 +60,7 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 
 #### Emurgo
 - [Official Website](https://emurgo.io/)
+- [Official Yoroi Web Light Wallet](https://yoroi-wallet.com/)
 - [Official Twitter](https://twitter.com/emurgo_io)
 - [Official Facebook](https://www.facebook.com/emurgo.io/)
 
