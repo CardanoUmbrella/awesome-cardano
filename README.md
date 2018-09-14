@@ -81,11 +81,10 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 
 ### Community Built Resources
 - [How To Buy ADA](https://buyada.com/) - In depth guide to buying Cardano's ADA.
-- [Ada Calculator](https://adacalculator.com/) - Calculate your ADA's value
+- [Ada Calculator](https://adacalculator.com/) - Staking calculator and live price feed
 - [ADA Tracker](https://adatracker.com/)
 - [ADA Check](https://adacheck.io/)
 - [Cardano Updates](https://cardanoupdates.com/) - Displays github commits
-- [ADA Staking Calculator](http://ada-calc.herokuapp.com) - The reward figures used are pure speculation at this point.
 - [How Much Is My ADA Worth](https://howmuchismyadaworth.com/)
 - [Cardano Projects](https://cardanoprojects.com)
 
