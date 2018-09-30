@@ -104,6 +104,7 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 - [Gate.io](https://gate.io)
 - [HitBTC](https://hitbtc.com/)
 - [Huobi](https://www.huobi.pro/)
+- [Kraken](https://www.kraken.com)
 - [UPBit](https://upbit.com/)
 
 ### List of Staking Pools
