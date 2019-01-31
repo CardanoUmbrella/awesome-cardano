@@ -75,6 +75,8 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 - [Telegram: Cardano Community](https://t.me/cardano)
 - [Telegram: Cardano Community Tech Support](https://t.me/CardanoCommunityTechSupport)
 - [Telegram: Cardano Developers](https://t.me/CardanoDevelopersOfficial)
+- [Telegram: Cardano Stake Pool Workgroup](https://t.me/CardanoStakePoolWorkgroup)
+- [Telegram: Cardano Stake Pools](https://t.me/CardanoStakePools)
 - [Telegram: Cardano General](https://t.me/CardanoGeneral)
 - [Telegram: Cardano Trading](https://t.me/CardanoTradingOfficial)
 - [SubReddit: ADApool](https://www.reddit.com/r/ADApool/)
