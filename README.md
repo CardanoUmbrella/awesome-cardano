@@ -120,6 +120,9 @@ Core Mission: "standardise, protect and promote" the Cardano Protocol.
 - [Cardano Forum's List](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools/7595)
 - [AdaStaking.com Pool](https://adastaking.com/)
 
+### Applications
+- [Cardano Wall](https://cardanowall.com/) - Allows you to send a message to the Cardano blockchain in the easiest way, not delving into technical details. Your message will stay there forever and nobody ever can delete or change it. The most logical way of application of it is to make sure the proof of the existence of documents. 
+
 ### TODO: Needs Organising:
 - [ADA.in.th](https://sites.google.com/view/ada-in-th/home)
 - [Ada.st](https://www.ada.st/)
